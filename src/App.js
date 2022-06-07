@@ -19,7 +19,6 @@ const App = () =>{
     
   }, [task])
   
-  
       
   const AddTask = ()=>{
     let newValue = document.getElementById('newtask')
